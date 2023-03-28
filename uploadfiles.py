@@ -1,1 +1,3 @@
-Upload file
+import snowflake.connector
+
+streamlit.title('Upload files')
